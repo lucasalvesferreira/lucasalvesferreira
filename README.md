@@ -21,3 +21,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasalvesferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalvesferreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+  
+  ![Snake animation](https://github.com/lucasalvesferreira/lucasalvesferreira/blob/output/github-contribution-grid-snake.svg)
