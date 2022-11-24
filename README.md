@@ -3,18 +3,19 @@
   <div> 
  <div align="center">
   <a href="https://www.linkedin.com/in/lucas-alves-426304112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href = "lucas.aferreira@bandtec.com.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
+    <a href = "lucas.alvs21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<hr>
+  
+# Opa!Belezinha?✌
+ 
+<h4>- 🙋‍♂️ 22 anos.<h4>
+<h4>- 🌎 Brasileiro<h4>
+<h4>- 🔭 Hoje trabalho com desenvolvimento back-end em Java<h4>
+<h4>- 🌱 Estudante de ADS na faculdade SpTech<h4>
+<h4>- 😄 Pronouns: Ele / Dele<h4>
   <hr>
-    <h3>
-      Opa!Belezinha?✌
-    <h3>
-  <hr>
-
-- 🙋‍♂️ 22 anos.
-- 🌎 Brasileiro
-- 🔭 Hoje trabalho com desenvolvimento back-end em Java
-- 🌱 Estudante de ADS na faculdade SpTech
-- 😄 Pronouns: Ele / Dele
 <div align="center">
   <a href="https://github.com/lucasalvesferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasalvesferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
